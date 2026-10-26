@@ -1,0 +1,31 @@
+Sarah Jenkins
+Email: sarah.jenkins@webdev.io | Phone: (555) 987-6543
+LinkedIn: linkedin.com/in/sarahjenkins-dev | GitHub: github.com/sarahjenkins
+Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+Full Stack Software Engineer with 3+ years of experience building modern web applications, scalable REST APIs, and microservices. Expert in React, Node.js, TypeScript, PostgreSQL, and cloud deployments with Docker and AWS.
+
+WORK EXPERIENCE
+Full Stack Engineer | CloudScale Apps (2022 - Present)
+- Engineered high-traffic responsive web applications utilizing React, TypeScript, HTML5, and Tailwind CSS.
+- Developed robust backend microservices and REST APIs using Node.js and Express.
+- Designed database schemas, indexes, and queries using PostgreSQL and Redis, cutting API response latency by 40%.
+- Integrated automated unit testing with Jest and established CI/CD pipelines via GitHub Actions.
+- Containerized frontend and backend services using Docker and managed cloud staging environments on AWS.
+
+Junior Web Developer | Innovate Soft (2021 - 2022)
+- Built dynamic UI components and single-page applications using React and JavaScript.
+- Collaborated with UI/UX designers to implement pixel-perfect user flows in an Agile Scrum setting.
+- Maintained source code using Git and participated in daily standups and code reviews.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin | 2017 - 2021
+
+TECHNICAL SKILLS
+- Frontend: React, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Redux
+- Backend: Node.js, Express, REST API, GraphQL, Microservices
+- Databases: PostgreSQL, MySQL, Redis, MongoDB
+- Cloud & Tools: AWS, Docker, Git, GitHub Actions, CI/CD, Linux, Postman, Jest
+- Soft Skills: Collaboration, Agile, Problem Solving, Communication, Time Management

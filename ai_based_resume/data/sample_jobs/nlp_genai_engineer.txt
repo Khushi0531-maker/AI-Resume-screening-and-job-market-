@@ -1,0 +1,20 @@
+Job Title: Lead NLP & Generative AI Engineer
+Location: San Francisco, CA / Remote
+Experience Required: 4-6 years
+
+About the Role:
+We are seeking a Lead Natural Language Processing (NLP) and Generative AI Engineer to architect, fine-tune, and deploy state-of-the-art Large Language Models (LLMs) and intelligent retrieval systems (RAG).
+
+Key Responsibilities:
+- Design and implement end-to-end Retrieval-Augmented Generation (RAG) pipelines using LangChain, HuggingFace Transformers, and vector databases (Pinecone, Milvus).
+- Fine-tune foundation open-source LLMs (Llama, Mistral) using PyTorch, LoRA, and PEFT.
+- Build production-ready REST APIs for model inference using FastAPI and Docker.
+- Implement NLP pipelines for named entity recognition (NER), text summarization, and semantic search using spaCy and NLTK.
+- Deploy and monitor models at scale on AWS GPU clusters (ECS/EKS).
+
+Required Skills & Qualifications:
+- Master's or Ph.D. in Computer Science, Artificial Intelligence, or related quantitative field.
+- 4+ years of experience in Natural Language Processing, Machine Learning, and Deep Learning.
+- Strong proficiency in Python, PyTorch, HuggingFace Transformers, and LangChain.
+- Hands-on experience with RAG, vector databases, and prompt engineering.
+- Solid understanding of Docker, AWS, Git, and Linux.

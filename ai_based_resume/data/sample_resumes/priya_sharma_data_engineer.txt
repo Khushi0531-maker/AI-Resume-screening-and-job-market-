@@ -1,0 +1,25 @@
+Priya Sharma
+Title: Senior Big Data & ETL Engineer
+Contact: priya.sharma@datatech.org | (555) 765-4321 | San Jose, CA
+LinkedIn: linkedin.com/in/priyasharma-data | GitHub: github.com/priyasharma
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4+ years of expertise designing modern data lakehouses, robust ETL/ELT pipelines, and scalable distributed data architectures. Proficient in Apache Spark, PySpark, Airflow, Snowflake, SQL, and GCP BigQuery.
+
+WORK EXPERIENCE
+Senior Data Engineer | DataSphere Corp (2022 - Present)
+- Architected petabyte-scale data pipelines using PySpark and Apache Spark on Databricks clusters.
+- Orchestrated over 200 automated workflows and data quality checks using Apache Airflow.
+- Migrated enterprise data warehouse from legacy SQL Server to Snowflake and Google Cloud BigQuery, cutting query costs by 35%.
+- Modeled dimensional schemas (Star, Snowflake) and implemented streaming ETL with Kafka.
+
+Data Pipeline Engineer | Insight Dynamics (2020 - 2022)
+- Wrote optimized complex SQL transformations and stored procedures in PostgreSQL and BigQuery.
+- Built automated data validation and ingestion frameworks using Python, Pandas, and Docker.
+
+EDUCATION
+Master of Science in Data Science, San Jose State University (2018 - 2020)
+Bachelor of Technology in Computer Engineering (2014 - 2018)
+
+TECHNICAL SKILLS
+Python, SQL, Apache Spark, PySpark, Hadoop, Kafka, Airflow, Snowflake, BigQuery, Databricks, PostgreSQL, ETL, Docker, GCP, Git, Data Modeling

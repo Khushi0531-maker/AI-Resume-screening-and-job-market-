@@ -1,0 +1,27 @@
+Jordan Lee
+Email: jordan.lee@university.edu | Phone: (555) 789-0123
+LinkedIn: linkedin.com/in/jordanlee-student | GitHub: github.com/jordanlee
+Location: Boston, MA
+
+OBJECTIVE
+Motivated Computer Science undergraduate seeking a Software Engineering or Data Science Internship. Passionate about machine learning, algorithmic problem solving, and Python development.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Boston University | Expected Graduation: 2026
+GPA: 3.7 / 4.0
+Relevant Coursework: Data Structures, Algorithms, Introduction to Machine Learning, Database Systems, Web Development.
+
+ACADEMIC PROJECTS
+Movie Recommendation Engine (Python, Scikit-Learn, Pandas)
+- Built a content-based recommendation system using TF-IDF vectorization and cosine similarity on movie descriptions.
+- Visualized user preference clusters using Matplotlib.
+
+Campus Event Portal (HTML, CSS, JavaScript, SQLite)
+- Created a web interface for student clubs to post and manage upcoming event calendars.
+- Implemented basic authentication and SQL query operations.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, C++, Java, JavaScript, HTML, CSS, SQL
+- Libraries & Tools: Pandas, NumPy, Scikit-Learn, Git, GitHub
+- Soft Skills: Quick Learner, Teamwork, Communication, Adaptability

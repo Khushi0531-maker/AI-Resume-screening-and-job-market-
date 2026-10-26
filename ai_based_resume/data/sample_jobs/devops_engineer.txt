@@ -1,0 +1,22 @@
+Job Title: Senior DevOps & Cloud Infrastructure Engineer
+Location: Remote
+Experience Required: 4+ years
+
+About the Role:
+We are looking for a Senior DevOps Engineer to scale our cloud infrastructure and improve deployment velocity, reliability, and security across multi-region environments.
+
+Key Responsibilities:
+- Manage and scale Kubernetes (EKS) clusters and containerized microservices.
+- Automate cloud infrastructure provisioning using Terraform and Ansible on AWS.
+- Design, build, and optimize CI/CD pipelines using GitHub Actions and Jenkins.
+- Implement observability, alerting, and log aggregation using Prometheus, Grafana, and Elasticsearch.
+- Maintain high system availability, security compliance, and disaster recovery procedures.
+- Script routine automation and tooling using Python and Bash.
+
+Required Skills & Qualifications:
+- Bachelor's degree in Computer Science, Information Technology, or relevant experience.
+- 4+ years of hands-on experience in DevOps, SRE, or Cloud Engineering.
+- Deep expertise with Docker, Kubernetes, AWS, and Linux administration.
+- Strong proficiency in Terraform (Infrastructure as Code) and CI/CD pipelines.
+- Experience with Prometheus, Grafana, Git, and scripting in Python or Bash.
+- Excellent analytical troubleshooting and teamwork skills.

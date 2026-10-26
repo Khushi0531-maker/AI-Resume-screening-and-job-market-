@@ -1,0 +1,32 @@
+Marcus Vance
+Email: marcus.vance@cloudops.net | Phone: (555) 345-6789
+LinkedIn: linkedin.com/in/marcus-vance-devops | GitHub: github.com/marcusvance
+Location: Chicago, IL
+
+PROFESSIONAL SUMMARY
+Senior Cloud & DevOps Engineer with 5+ years of experience specializing in Kubernetes orchestration, Infrastructure as Code with Terraform, AWS cloud architectures, and robust CI/CD automation.
+
+WORK EXPERIENCE
+Senior DevOps Engineer | Apex Cloud Technologies (2021 - Present)
+- Architected and administered production Kubernetes clusters hosting over 60 microservices on AWS (EKS).
+- Automated provisioning of cloud resources and security policies using Terraform and Ansible.
+- Built end-to-end continuous integration and deployment pipelines using GitHub Actions and Jenkins.
+- Deployed monitoring and observability stacks with Prometheus, Grafana, and Elasticsearch, achieving 99.98% uptime.
+- Wrote automation scripts in Python and Bash for routine system backups and failover tests.
+
+Infrastructure Systems Engineer | Horizon Tech (2019 - 2021)
+- Managed physical and cloud Linux servers, ensuring security compliance and system performance.
+- Containerized legacy applications using Docker and migrated workloads to AWS EC2 and RDS.
+- Configured Nginx reverse proxies and SSL certificates.
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois Urbana-Champaign | 2015 - 2019
+
+TECHNICAL SKILLS
+- Cloud Platforms: AWS, GCP
+- Containers & Orchestration: Docker, Kubernetes, Helm
+- IaC & Automation: Terraform, Ansible, Bash, Python
+- CI/CD & Tools: GitHub Actions, Jenkins, Git, Linux, Nginx
+- Monitoring: Prometheus, Grafana, Elasticsearch
+- Soft Skills: Leadership, Problem Solving, Analytical Skills, Incident Management

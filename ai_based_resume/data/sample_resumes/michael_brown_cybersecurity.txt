@@ -1,0 +1,23 @@
+Michael Brown
+Title: Cybersecurity & Incident Response Analyst
+Contact: michael.brown@secops-pro.com | (555) 654-7890 | Arlington, VA
+LinkedIn: linkedin.com/in/michaelbrown-sec | GitHub: github.com/michaelbrown-cyber
+
+PROFESSIONAL SUMMARY
+Dedicated Cybersecurity Specialist with 4+ years in threat hunting, vulnerability management, SIEM log monitoring, and network intrusion prevention. Certified CISSP and CEH.
+
+WORK EXPERIENCE
+Cybersecurity Operations Analyst | DefenseTech Shield (2022 - Present)
+- Monitored security incident and event management (SIEM) telemetry using Splunk and Microsoft Sentinel across 10,000 endpoints.
+- Performed vulnerability scans, threat mitigation, and penetration tests using Kali Linux, Wireshark, and Metasploit.
+- Automated threat intelligence feeds and triage scripts using Python and Bash.
+
+Security Analyst | Horizon InfoSec (2020 - 2022)
+- Analyzed network firewall logs, IDS/IPS rules, and investigated phishing incidents.
+- Implemented multi-factor authentication (MFA) and zero-trust identity policies in Azure Active Directory.
+
+EDUCATION
+Bachelor of Science in Cybersecurity & Information Assurance, George Mason University (2016 - 2020)
+
+TECHNICAL SKILLS
+Python, Bash, Linux, Network Security, Splunk, SIEM, Wireshark, Incident Response, Firewalls, Vulnerability Management, Azure, Critical Thinking

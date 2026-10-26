@@ -1,0 +1,22 @@
+Job Title: Full Stack Software Engineer (React / Node.js)
+Location: San Francisco, CA / Hybrid
+Experience Required: 2-4 years
+
+About the Role:
+We are seeking an experienced Full Stack Software Engineer to join our core product team. You will lead the development of high-performance web applications and robust backend services.
+
+Key Responsibilities:
+- Design and build modern, responsive web user interfaces using React, TypeScript, HTML5, CSS3, and Tailwind CSS.
+- Develop scalable backend REST APIs and microservices using Node.js and Express.
+- Architect and optimize relational databases using PostgreSQL and Redis caching.
+- Write comprehensive unit tests and integration tests using Jest and Pytest.
+- Collaborate with product designers and engineers in an Agile / Scrum environment.
+- Maintain CI/CD pipelines with GitHub Actions and deploy services onto AWS using Docker.
+
+Required Skills & Qualifications:
+- Bachelor's degree in Computer Science, Software Engineering, or equivalent experience.
+- 2+ years of professional full stack development experience.
+- High proficiency in JavaScript, TypeScript, React, and Node.js.
+- Strong SQL and database modeling experience with PostgreSQL or MySQL.
+- Familiarity with Git, REST API design, Docker, and AWS.
+- Strong problem-solving, communication, and collaboration skills.

@@ -1,0 +1,25 @@
+Emily Chen
+Title: Lead NLP & Generative AI Engineer
+Contact: emily.chen@ai-innovate.com | (555) 312-8901 | Seattle, WA
+LinkedIn: linkedin.com/in/emilychen-nlp | GitHub: github.com/emilychen-ai
+
+PROFESSIONAL SUMMARY
+Innovative NLP and Generative AI Engineer with 5+ years of experience building production Transformer models, Large Language Model (LLM) fine-tuning pipelines, and RAG architectures. Deep expertise with PyTorch, HuggingFace, LangChain, spaCy, and vector databases.
+
+WORK EXPERIENCE
+Lead AI Engineer | GenAI Labs (2022 - Present)
+- Spearheaded enterprise Retrieval-Augmented Generation (RAG) platform using LangChain, HuggingFace Transformers, and Pinecone, handling 4M queries/day.
+- Fine-tuned open-source LLMs (Llama 3, Mistral) with PEFT/LoRA using PyTorch on AWS EC2 GPU clusters.
+- Implemented real-time semantic entity extraction and sentiment analysis pipelines with spaCy and FastAPI.
+
+Senior NLP Scientist | Cognition Works (2019 - 2022)
+- Designed multilingual text classification and summarization algorithms using BERT and Scikit-Learn.
+- Cleaned and prepared 100M+ unstructured document corpora using Python, Pandas, and SQL.
+- Containerized machine learning services with Docker and deployed onto AWS EKS via GitHub Actions.
+
+EDUCATION
+Master of Science in Artificial Intelligence, Stanford University (2017 - 2019)
+Bachelor of Science in Computer Science, UC Berkeley (2013 - 2017)
+
+TECHNICAL SKILLS
+Python, PyTorch, HuggingFace, Transformers, LLMs, LangChain, RAG, NLP, spaCy, NLTK, Scikit-Learn, Docker, AWS, Git, SQL, FastAPI, System Design, Problem Solving

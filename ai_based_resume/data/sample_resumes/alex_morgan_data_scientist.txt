@@ -1,0 +1,35 @@
+Alex Morgan
+Email: alex.morgan@email.com | Phone: (555) 234-5678
+LinkedIn: linkedin.com/in/alexmorgan-ai | GitHub: github.com/alexmorgan
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist and Machine Learning Engineer with 4+ years of hands-on experience designing end-to-end NLP pipelines, deep learning models, and production microservices. Proven expertise in statistical modeling, Scikit-Learn, PyTorch, and deploying containerized ML solutions on AWS.
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | DataCore Analytics (2022 - Present)
+- Developed an enterprise Natural Language Processing (NLP) pipeline for automated document categorization and named entity recognition using spaCy and PyTorch, improving document processing speed by 65%.
+- Built and tuned predictive models using Scikit-Learn, XGBoost, and Pandas, achieving an ROC-AUC score of 0.93.
+- Containerized model inference pipelines with Docker and exposed scalable REST APIs using FastAPI.
+- Built automated CI/CD deployment pipelines using GitHub Actions and deployed microservices onto AWS ECS.
+- Collaborated in an Agile team of 8 engineers and data scientists, conducting weekly sprint demos.
+
+Data Scientist | NeuralTech Solutions (2020 - 2022)
+- Analyzed large-scale transactional data using SQL and Pandas to extract customer churn drivers.
+- Implemented deep learning text classification models using TensorFlow and PyTorch for sentiment analysis.
+- Designed interactive analytics dashboards with Plotly and Streamlit for executive decision-makers.
+- Automated data extraction and feature engineering workflows in a Linux environment using Python and Git.
+
+EDUCATION
+Master of Science in Computer Science (Specialization: Machine Learning)
+University of Washington | 2018 - 2020
+
+Bachelor of Science in Information Technology
+Seattle University | 2014 - 2018
+
+TECHNICAL SKILLS
+- Languages: Python, SQL, Bash, C++
+- ML & AI: Machine Learning, Deep Learning, Natural Language Processing (NLP), Scikit-Learn, PyTorch, TensorFlow, spaCy, NLTK, Pandas, NumPy, Matplotlib, Plotly
+- Cloud & DevOps: AWS, Docker, CI/CD, Git, GitHub, Linux, REST API
+- Databases: PostgreSQL, MySQL, Redis
+- Soft Skills: Problem Solving, Teamwork, Communication, System Design, Critical Thinking

@@ -1,0 +1,24 @@
+Job Title: Senior Data Scientist / Machine Learning Engineer
+Location: Remote / Hybrid
+Experience Required: 3-5 years
+
+About the Role:
+We are looking for a passionate Senior Data Scientist to design, build, and deploy production-grade machine learning models and NLP pipelines. You will collaborate closely with product and engineering teams to transform unstructured data into actionable intelligence.
+
+Key Responsibilities:
+- Build and evaluate predictive machine learning and deep learning models using Python, Scikit-Learn, and PyTorch.
+- Develop Natural Language Processing (NLP) solutions including text classification, entity extraction, and sentiment analysis.
+- Clean and preprocess complex datasets with Pandas, NumPy, and SQL.
+- Deploy ML models as scalable microservices and REST APIs using FastAPI or Flask.
+- Leverage cloud computing platforms (AWS or GCP) and containerize workflows using Docker.
+- Implement CI/CD pipelines for automated testing, model versioning, and continuous monitoring.
+- Communicate technical findings and visualizations effectively to cross-functional stakeholders.
+
+Required Skills & Qualifications:
+- Bachelor's or Master's degree in Computer Science, Data Science, Statistics, or related technical field.
+- 3+ years of hands-on experience in Machine Learning, NLP, and Statistical Modeling.
+- Proficient in Python, SQL, Git, and Linux environments.
+- Strong knowledge of Scikit-Learn, PyTorch or TensorFlow, Pandas, NumPy, and spaCy/NLTK.
+- Experience with Docker, REST API development, and AWS cloud services.
+- Solid understanding of data structures, algorithms, and system design.
+- Excellent problem-solving, communication, and teamwork skills.

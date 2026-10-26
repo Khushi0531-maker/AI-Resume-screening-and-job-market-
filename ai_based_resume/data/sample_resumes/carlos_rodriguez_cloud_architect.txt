@@ -1,0 +1,25 @@
+Carlos Rodriguez
+Title: Principal Cloud Infrastructure Architect
+Contact: carlos.rodriguez@cloudarch.io | (555) 432-1098 | Denver, CO
+LinkedIn: linkedin.com/in/carlosrodriguez-cloud | GitHub: github.com/carloscloud
+
+PROFESSIONAL SUMMARY
+AWS Certified Solutions Architect with 7+ years of experience designing multi-region cloud infrastructures, Kubernetes container ecosystems, and automated disaster recovery systems.
+
+WORK EXPERIENCE
+Principal Cloud Architect | Apex Cloud Solutions (2021 - Present)
+- Architected scalable multi-account AWS and Azure enterprise cloud landing zones serving 20M users.
+- Standardized Infrastructure as Code (IaC) across 40 teams using Terraform, Terragrunt, and Ansible.
+- Implemented enterprise Kubernetes (EKS) clusters with service mesh (Istio), Prometheus, and Grafana.
+- Spearheaded cloud cost optimization program, delivering \$1.8M in annual cloud infrastructure savings.
+
+Senior DevOps Engineer | CloudScale Networks (2017 - 2021)
+- Built automated CI/CD deployment pipelines using GitHub Actions, Jenkins, and Helm.
+- Hardened Linux OS environments and managed automated security vulnerability patching.
+
+EDUCATION
+Master of Science in Information Systems, University of Colorado Boulder (2015 - 2017)
+Bachelor of Science in Computer Science (2011 - 2015)
+
+TECHNICAL SKILLS
+AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible, CI/CD, Prometheus, Grafana, Linux, Python, Bash, System Design, Leadership

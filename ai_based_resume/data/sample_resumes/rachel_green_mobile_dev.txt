@@ -1,0 +1,24 @@
+Rachel Green
+Title: Senior Cross-Platform Mobile Engineer
+Contact: rachel.green@appcraft.dev | (555) 321-6547 | Atlanta, GA
+LinkedIn: linkedin.com/in/rachelgreen-mobile | GitHub: github.com/rachelgreen
+
+PROFESSIONAL SUMMARY
+Mobile App Developer with 4+ years of experience publishing top-rated iOS and Android apps on Google Play and Apple App Store. Expert in Flutter, React Native, Dart, Swift, Kotlin, and Firebase.
+
+WORK EXPERIENCE
+Senior Mobile Developer | AppVenture Studios (2022 - Present)
+- Developed and published 3 cross-platform mobile apps using Flutter and Dart, garnering 500,000+ active downloads.
+- Integrated native plugins in Swift (iOS) and Kotlin (Android) for camera hardware and push notifications.
+- Built offline-first data caching with SQLite and synchronized backend data through GraphQL and REST APIs.
+- Configured automated mobile CI/CD pipelines using Fastlane and GitHub Actions.
+
+Mobile App Engineer | MobilityTech (2020 - 2022)
+- Engineered responsive client interfaces using React Native, TypeScript, and Redux.
+- Integrated Stripe in-app payments, Firebase analytics, and crash reporting.
+
+EDUCATION
+Bachelor of Science in Computer Science, Georgia Institute of Technology (2016 - 2020)
+
+TECHNICAL SKILLS
+Flutter, React Native, Dart, Swift, Kotlin, iOS, Android, REST API, GraphQL, Firebase, Git, Unit Testing, Mobile Architecture

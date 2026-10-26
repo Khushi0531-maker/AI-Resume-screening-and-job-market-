@@ -1,0 +1,20 @@
+Job Title: Senior Java Backend & Microservices Engineer
+Location: New York, NY / Hybrid
+Experience Required: 5+ years
+
+About the Role:
+We are looking for a Senior Java Backend Engineer to design and scale enterprise distributed systems, high-volume transactional APIs, and event-driven microservices.
+
+Key Responsibilities:
+- Design, develop, and maintain resilient microservices using Java 17+, Spring Boot, and Spring Cloud.
+- Architect high-throughput event streaming architectures using Apache Kafka.
+- Optimize relational database schemas, indexing, and complex queries in PostgreSQL and Redis.
+- Ensure 99.99% system reliability, automated unit testing with JUnit/Mockito, and CI/CD automation.
+- Deploy containerized services on Kubernetes and AWS.
+
+Required Skills & Qualifications:
+- Bachelor's degree in Computer Science, Software Engineering, or equivalent.
+- 5+ years of enterprise backend development using Java and Spring Boot.
+- Deep expertise with PostgreSQL, Redis, Kafka, and RESTful API architecture.
+- Solid experience with Docker, Kubernetes, Git, CI/CD, and AWS.
+- Strong knowledge of Object-Oriented Programming (OOP) and system design.

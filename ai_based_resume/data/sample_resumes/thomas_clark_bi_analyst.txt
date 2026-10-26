@@ -1,0 +1,23 @@
+Thomas Clark
+Title: Senior Business Intelligence & Data Analyst
+Contact: thomas.clark@analytics-hub.com | (555) 210-9876 | Chicago, IL
+LinkedIn: linkedin.com/in/thomasclark-bi | GitHub: github.com/thomasclark
+
+PROFESSIONAL SUMMARY
+Data Analyst with 4+ years translating raw business data into actionable executive dashboards, revenue forecasting models, and automated KPI reporting. Proficient in SQL, Power BI, Tableau, Excel, and Python.
+
+WORK EXPERIENCE
+Lead BI Analyst | Strategic Growth Partners (2022 - Present)
+- Developed 15+ automated executive dashboards in Power BI and Tableau connected to PostgreSQL and Snowflake.
+- Authored advanced DAX measures and optimized complex SQL analytical queries, decreasing dashboard refresh time by 70%.
+- Built statistical regression and forecasting models in Python (Pandas, SciPy, Matplotlib) to predict customer retention.
+
+Data Analyst | Global Metrics (2020 - 2022)
+- Conducted A/B testing and marketing attribution analysis for e-commerce campaigns.
+- Automated weekly financial reporting workflows using Excel (VBA, Power Query) and Python scripts.
+
+EDUCATION
+Bachelor of Science in Statistics & Economics, University of Illinois (2016 - 2020)
+
+TECHNICAL SKILLS
+SQL, Power BI, Tableau, Excel, Python, Pandas, Matplotlib, Statistical Modeling, PostgreSQL, Snowflake, Communication, Problem Solving

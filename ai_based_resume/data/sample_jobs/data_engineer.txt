@@ -1,0 +1,20 @@
+Job Title: Senior Data Engineer (Spark / Snowflake / Airflow)
+Location: San Jose, CA / Remote
+Experience Required: 4+ years
+
+About the Role:
+We are looking for an experienced Senior Data Engineer to design, build, and optimize scalable data lakehouses, real-time ETL pipelines, and analytical data marts.
+
+Key Responsibilities:
+- Build large-scale batch and streaming data pipelines using Apache Spark, PySpark, and Kafka on Databricks.
+- Orchestrate data ingestion and transformation DAGs using Apache Airflow.
+- Architect dimensional star-schema data models in Snowflake and Google Cloud BigQuery.
+- Ensure data governance, data quality monitoring, and schema migration integrity.
+- Collaborate with Data Science and BI analytics teams.
+
+Required Skills & Qualifications:
+- Bachelor's or Master's in Computer Science, Data Engineering, or related discipline.
+- 4+ years in Big Data Engineering and distributed computing.
+- Strong proficiency in Python, SQL, Apache Spark, and PySpark.
+- Expertise with Snowflake, BigQuery, Kafka, and Airflow.
+- Experience with Docker, Git, and cloud environments (AWS or GCP).

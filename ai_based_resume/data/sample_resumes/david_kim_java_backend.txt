@@ -1,0 +1,24 @@
+David Kim
+Title: Senior Java & Microservices Backend Engineer
+Contact: david.kim@backend-systems.net | (555) 421-9876 | New York, NY
+LinkedIn: linkedin.com/in/davidkim-java | GitHub: github.com/davidkim-dev
+
+PROFESSIONAL SUMMARY
+Backend Software Architect with 6+ years of experience engineering high-throughput distributed systems, microservices, and asynchronous event streams. Expert in Java, Spring Boot, Apache Kafka, PostgreSQL, Docker, and AWS.
+
+WORK EXPERIENCE
+Senior Backend Engineer | FinStream Global (2021 - Present)
+- Engineered resilient fintech microservices using Java 21, Spring Boot, and Spring Cloud, processing 15,000 transactions/sec.
+- Designed event-driven messaging pipelines utilizing Apache Kafka and RabbitMQ with zero message loss.
+- Optimized relational database performance in PostgreSQL with Redis caching, reducing p99 latency by 55%.
+- Integrated continuous integration and deployment with Jenkins, Docker, and Kubernetes on AWS.
+
+Java Software Engineer | OmniCommerce (2018 - 2021)
+- Developed core RESTful APIs and payment processing gateways using Java, Spring MVC, and Hibernate.
+- Automated unit and integration testing suites with JUnit, Mockito, and Postman, achieving 90%+ test coverage.
+
+EDUCATION
+Bachelor of Science in Software Engineering, Cornell University (2014 - 2018)
+
+TECHNICAL SKILLS
+Java, Spring Boot, Microservices, REST API, Kafka, PostgreSQL, MySQL, Redis, Docker, Kubernetes, AWS, Git, CI/CD, Unit Testing, Agile, OOP

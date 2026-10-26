@@ -1,0 +1,24 @@
+Aisha Patel
+Title: Senior Frontend & UI/UX Engineer
+Contact: aisha.patel@frontend-studio.com | (555) 876-5432 | Los Angeles, CA
+LinkedIn: linkedin.com/in/aishapatel-ui | GitHub: github.com/aishapatel
+
+PROFESSIONAL SUMMARY
+Passionate Frontend Web Engineer with 4+ years creating accessible, responsive, and blazing-fast web experiences. Master of React, Next.js, TypeScript, Tailwind CSS, Redux, and modern browser APIs.
+
+WORK EXPERIENCE
+Senior Frontend Developer | NextGen Web (2022 - Present)
+- Built modern server-side rendered web applications using React, Next.js, and TypeScript, improving SEO score to 98%.
+- Designed reusable component library utilizing Tailwind CSS, Storybook, and Figma tokens.
+- Integrated state management with Redux Toolkit and handled real-time communication via WebSockets.
+- Reduced client bundle size by 45% through dynamic imports, code splitting, and asset optimization.
+
+Frontend Developer | Creative Pixel (2020 - 2022)
+- Built interactive user interfaces with React, JavaScript, HTML5, and CSS3.
+- Wrote automated unit tests with Jest and React Testing Library in an Agile Scrum sprint setup.
+
+EDUCATION
+Bachelor of Science in Computer Science, University of Southern California (2016 - 2020)
+
+TECHNICAL SKILLS
+React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Redux, GraphQL, REST API, Jest, WebSockets, Git, UI/UX, Agile
